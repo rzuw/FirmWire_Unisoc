@@ -14,3 +14,5 @@ sample_threadx*.map
 *.qcow2
 *.before_threadx_cli
 *.before_shannon_timer
+
+/sample_threadx_timer.out_workspace/
